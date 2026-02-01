@@ -114,3 +114,8 @@ Below are selected screenshots from the SPSS analysis, including descriptive sta
    <img src="screenshot8.png" width="45%">
   <img src="screenshot7.png" width="45%">
 </p>
+
+---
+
+### 📄 Questionnaire
+[**Click here to view the questionnaire (PDF)**](questionnaire.pdf)
