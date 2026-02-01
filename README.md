@@ -110,5 +110,6 @@ Below are selected screenshots from the SPSS analysis, including descriptive sta
 
 ### 🧪 Chi-Square Test Output
 <p align="center">
+   <img src="screenshot8.png" width="45%">
   <img src="screenshot7.png" width="45%">
 </p>
