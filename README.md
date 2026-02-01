@@ -95,13 +95,20 @@ are associated with:
 
 ## 📸 Visual Outputs
 
-Below are selected screenshots from the SPSS analysis, including frequency tables, cross-tabulations, and Chi-Square test results.
+Below are selected screenshots from the SPSS analysis, including descriptive statistics, cross-tabulations, and Chi-Square test results.
 
+### 📊 Descriptive Statistics
 <p align="center">
-  <img src="images/descriptive_stats.png" width="700">
+  <img src="screenshot4.png" width="45%">
+  <img src="screenshot6.png" width="45%">
 </p>
 
+### 🔍 Cross-Tabulation Example
 <p align="center">
-  <img src="images/chi_square_output.png" width="700">
+  <img src="screenshot3.png" width="700">
 </p>
 
+### 🧪 Chi-Square Test Output
+<p align="center">
+  <img src="screenshot7.png" width="45%">
+</p>
