@@ -105,7 +105,8 @@ Below are selected screenshots from the SPSS analysis, including descriptive sta
 
 ### 🔍 Cross-Tabulation Example
 <p align="center">
-  <img src="screenshot3.png" width="700">
+  <img src="screenshot1.png" width="45%">
+   <img src="screenshot2.png" width="45%">
 </p>
 
 ### 🧪 Chi-Square Test Output
